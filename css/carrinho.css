@@ -1,0 +1,42 @@
+.center-content{
+    text-align: center;
+}
+
+.logo-bar {
+    align-items: center;
+}
+
+.logo {
+    max-width: 200px;
+    height: auto;
+}
+
+.icon {
+    max-width: 40px;
+    height: auto;
+}
+
+.banner {
+    max-width: 100%;
+}
+
+.cart-table img {
+    max-width: 200px;
+}
+
+.qty-value {
+    max-width: 32pt;
+}
+
+.remove-item {
+    font-weight: bolder;
+    color: red;
+}
+
+footer {
+        padding-top: 32pt;
+}
+
+
+
+
